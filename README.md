@@ -3,7 +3,7 @@
 _Currently studying computer science at the University of Toulouse._
 
 I've always loved programming and learning how different types of machines work. I knew right away that my dream job would be in the field of computer science, and it is, as I want to become a Software engineer.
-*I love working out things by myself and trying out all sorts of things !*
+**I love working out things by myself and trying out all sorts of things !**
 
 
 > [!NOTE]
