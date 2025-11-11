@@ -7,7 +7,6 @@
 ## 🧠 About Me
 
 I love understanding how things work and building clean, functional, and aesthetic applications, from low-level systems in **C** to modern **Angular** frontends.   I’m driven by curiosity, creativity, and a constant desire to learn.  
-> “I enjoy pushing my limits, both in code and in life, while avoiding living exclusively on instant noodles.”
 
 ---
 
