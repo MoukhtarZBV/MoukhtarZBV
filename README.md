@@ -1,16 +1,16 @@
 # 👋 Hi there, I’m Moukhtar Zoubairov
 
-🎓 **Software Engineering student** at [Grenoble INP – Ensimag](https://ensimag.grenoble-inp.fr/), formerly **top of my class** at the [University of Toulouse (IUT Informatique Paul Sabatier)](https://iut.univ-tlse3.fr/). Passionate about **technology**, **UI/UX design**, and solving real-world problems through elegant and efficient software.
+**Software Engineering student** at [Grenoble INP – Ensimag](https://ensimag.grenoble-inp.fr/), formerly **top of my class** at the [University of Toulouse (IUT Informatique Paul Sabatier)](https://iut.univ-tlse3.fr/). Passionate about **technology**, **UI/UX design**, and solving real-world problems through elegant and efficient software.
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I love understanding how things work and building clean, functional, and aesthetic applications, from low-level systems in **C** to modern **Angular** frontends.   I’m driven by curiosity, creativity, and a constant desire to learn.  
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### **Frontend Developer Intern - Michelin** (June–August 2025)
 - Rebuilt the entire contract management website from a POC using **Angular 19** (Standalone Components, Signals, dependency injection).  
@@ -31,7 +31,7 @@ I love understanding how things work and building clean, functional, and aesthet
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Languages**  
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
@@ -59,15 +59,7 @@ I love understanding how things work and building clean, functional, and aesthet
 
 ---
 
-## ⚡ Interests
-
-🎨 **Art & Design** - sketching, UI mockups, creative visuals  
-🎮 **Games & Series** - action, puzzle, mystery  
-🏐 **Sports** - volleyball, street workout  
-
----
-
-## 📫 Get in Touch
+## Get in Touch
 
 📍 Based in **Grenoble, France**  
 📧 [moukhtar.zoubairov.pro@gmail.com](mailto:moukhtar.zoubairov.pro@gmail.com)  
@@ -75,4 +67,4 @@ I love understanding how things work and building clean, functional, and aesthet
 
 ---
 
-> ✨ _Always open to opportunities, collaborations, and projects that challenge my creativity and technical skills._
+ _Always open to opportunities, collaborations, and projects._
